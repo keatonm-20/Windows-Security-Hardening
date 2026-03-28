@@ -1,1 +1,1 @@
-# security-hardening-in-Windows
+# Windows Security Enhancement and System Hardening Lab
