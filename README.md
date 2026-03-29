@@ -19,11 +19,12 @@
 ---
 
 ### Installing updates
+Installing up dates in WSUS.<br><br>
 ![Dashboard Screenshot](images/img8.png)
 ![Dashboard Screenshot](images/img9.png)
 ![Dashboard Screenshot](images/img10.png)
 ![Dashboard Screenshot](images/img11.png)
-![Dashboard Screenshot](images/img12.png)
+![Dashboard Screenshot](images/img12.png)<br><br><br>
 
 ---
 ---
